@@ -48,7 +48,7 @@ run the .exe
 4. Run:
 
    ```bash
-   python Rastynums(1).py
+   python Rasty-Nums.py
    ```
 
    If your file has a different name, replace the filename with your own.
@@ -135,7 +135,7 @@ Tkinter ist in den meisten standardmäßigen Python-Installationen enthalten. Da
 4. Führe folgenden Befehl aus:
 
    ```bash
-   python gastynums(1).py
+   python Rasty-Nums.py
    ```
 
    Falls die Datei einen anderen Namen hat, ersetze den Dateinamen entsprechend.
